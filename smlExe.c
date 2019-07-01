@@ -38,7 +38,7 @@ void smlExe(char file[],int size)
 	    case 11:
 	    	printf("\n\t = %d\n",memory[op]);
 	    	break;
-	    	case 20:
+	    case 20:
 	    	acc = memory[op];
 	    	break;
 	    case 21:
